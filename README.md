@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Saunfq
-- 👀 I’m want to become Data scientist...
+- 👀 I’m want to become Web Developer...
 - 🌱 I’m currently learning Python ..
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: qgnh153hgn2ubnnjoon
+- ⚡ Fun fact: sdaddsadad
 
 <!---
 Saunfq/Saunfq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
